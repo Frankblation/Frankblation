@@ -6,8 +6,8 @@
 
 ###
 
-<h1 align="center" style="color:orange;">
-  I'm Frank Blation
+<h1 align="center">
+  <span style="color:#e68339;">I'm Frank Blation</span>
 </h1>
 
 
