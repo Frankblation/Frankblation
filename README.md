@@ -1,16 +1,22 @@
-<img align="left" height="200" src="https://s5.ezgif.com/tmp/ezgif-5-da17fdba84.gif"  />
+<br clear="both">
+
+<div align="center">
+  <img height="325" src="https://media.giphy.com/media/GdY09jvpgCDcWgmI7w/giphy.gif"  />
+</div>
 
 ###
 
-<h1 align="left"> I'm Frank Blation!</h1>
+<h3 align="center">I'm Frank Blation</h3>
 
 ###
 
-<p align="left">I’m a full-stack web developer from Tulsa, Oklahoma that's passionate about creating meaningful digital experiences.</p>
+<p align="center">I’m a full-stack web developer from Tulsa, Oklahoma that's passionate about creating meaningful and immersive digital experiences.</p>
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -42,6 +48,20 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Frankblation/Frankblation/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/frankblation">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=frankblation&count=4&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/frankblation" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -54,18 +74,6 @@
   </a>
   <a href="Frankblation@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Frankblation/Frankblation/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/frankblation">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=frankblation&count=4&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
