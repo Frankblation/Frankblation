@@ -6,9 +6,10 @@
 
 ###
 
-<h1 align="center" style="color: #e63946; text-shadow: 3px 3px 5px #2a9d8f;">
+<h1 align="center" style="color: #e68339;">
   I'm Frank Blation
 </h1>
+
 
 ###
 
