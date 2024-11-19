@@ -6,20 +6,32 @@
 
 ###
 
-<h3 align="center">I'm Frank Blation</h3>
+<svg width="100%" height="100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff7e5f;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#feb47b;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <text x="50%" y="50%" text-anchor="middle" dy=".3em" font-size="40" font-family="Arial, sans-serif" fill="url(#gradient)">
+    I'm Frank Blation
+  </text>
+</svg>
 
 ###
 
-<p align="center">I’m a full-stack web developer from Tulsa, Oklahoma that's passionate about creating meaningful and immersive digital experiences.</p>
+<h3 align="center">I’m a full-stack web developer from Tulsa, Oklahoma</h3>
+
+###
+
+<h4 align="center">I'm very passionate about creating meaningful and immersive digital experiences!</h4>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Frankblation&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2" height="120" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Frankblation&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&order=1" height="120" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Frankblation&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=Frankblation&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -58,14 +70,15 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/frankblation" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="27" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/frankblation/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="27" alt="instagram logo"  />
   </a>
   <a href="Frankblation@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="27" alt="gmail logo"  />
   </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="45" height="27" alt="slack logo"  />
 </div>
 
 ###
