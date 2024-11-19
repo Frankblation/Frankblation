@@ -6,14 +6,14 @@
 
 ###
 
-<h1 align="center">
- <code style="color:red;">I'm Frank Blation</code>
+<h1 align="center" color="orange">
+ I'm Frank Blation
 </h1>
 
 
 ###
 
-<h3 align="center">I’m a full-stack web developer from Tulsa, Oklahoma</h3>
+<h3 align="center">A full-stack web developer from Tulsa, Oklahoma</h3>
 
 ###
 
