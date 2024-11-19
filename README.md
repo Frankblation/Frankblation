@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center" style="color: #e68339;">
+<h1 align="center" style="color:orange;">
   I'm Frank Blation
 </h1>
 
@@ -71,7 +71,6 @@
   <a href="Frankblation@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="27" alt="gmail logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="45" height="27" alt="slack logo"  />
 </div>
 
 ###
