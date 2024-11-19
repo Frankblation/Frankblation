@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center" color="orange">
+<h1 align="center">
  I'm Frank Blation
 </h1>
 
