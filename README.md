@@ -7,7 +7,7 @@
 ###
 
 <h1 align="center">
-  <span style="color:#e68339;">I'm Frank Blation</span>
+ <code style="color:red;">I'm Frank Blation</code>
 </h1>
 
 
