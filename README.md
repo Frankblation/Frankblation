@@ -6,17 +6,9 @@
 
 ###
 
-<svg width="100%" height="100" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ff7e5f;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#feb47b;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <text x="50%" y="50%" text-anchor="middle" dy=".3em" font-size="40" font-family="Arial, sans-serif" fill="url(#gradient)">
-    I'm Frank Blation
-  </text>
-</svg>
+<h1 align="center" style="color: #e63946; text-shadow: 3px 3px 5px #2a9d8f;">
+  I'm Frank Blation
+</h1>
 
 ###
 
