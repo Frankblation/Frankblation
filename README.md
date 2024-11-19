@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="325" src="https://media.giphy.com/media/GdY09jvpgCDcWgmI7w/giphy.gif"  />
+  <img height="700" src="https://media.giphy.com/media/GdY09jvpgCDcWgmI7w/giphy.gif"  />
 </div>
 
 ###
@@ -11,6 +11,16 @@
 ###
 
 <p align="center">I’m a full-stack web developer from Tulsa, Oklahoma that's passionate about creating meaningful and immersive digital experiences.</p>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Frankblation&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Frankblation&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&order=1" height="120" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Frankblation&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
 
@@ -35,22 +45,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Frankblation&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2" height="120" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Frankblation&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&order=1" height="120" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Frankblation&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Frankblation/Frankblation/output/snake.svg" alt="Snake animation" />
 
 ###
 
