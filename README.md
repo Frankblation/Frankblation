@@ -65,7 +65,7 @@
   <a href="https://www.instagram.com/frankblation/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="27" alt="instagram logo"  />
   </a>
-  <a href="Frankblation@gmail.com" target="_blank">
+  <a href="mailto:frankblation@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="27" alt="gmail logo"  />
   </a>
 </div>
